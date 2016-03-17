@@ -4,6 +4,7 @@
 
 $(function () {
 
+
     var pageManager = {
         $container: $('.js_container'),
         _pageStack: [],
